@@ -1,4 +1,4 @@
-Estudante de Engenharia da Computação, atualmente cursando o 7º semestre, possuo formação em Tecnólogo em Informática para Internet. Meu objetivo é obter experiência profissional e aplicar os conceitos que aprendi na faculdade e no curso para progredir e dar prodedir na minha carreira profissional.
+Estudante de Engenharia da Computação, atualmente cursando o 7º semestre, possuo formação em Tecnólogo em Informática para Internet. Meu objetivo é obter experiência profissional e aplicar os conceitos que aprendi na faculdade e no curso para progredir na minha carreira profissional.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/leonardo-mendes-ferreira-/)
