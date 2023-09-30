@@ -63,8 +63,5 @@ Estudante de Engenharia da Computação, atualmente cursando o 7º semestre, pos
 
 
 
-![vasco](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={LeonardoSantos16}&theme={dark})
-
-
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=LeonardoSantos16&theme=dark&locale=pt_BR&mode=weekly)](https://git.io/streak-stats) -->
 
